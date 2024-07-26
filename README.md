@@ -22,7 +22,7 @@ Quiz app build using flutter for user to test there knowledge regard flutter, re
 2. Clone the repository:
 
    ```sh
-   git clone https://github.com/Pratyansh35/quiz_app.git
+   git clone https://github.com/prakashvishal93/Flutter-Quiz-App.git
    cd meal-app-flutter
    ```
 3. Install dependencies:
